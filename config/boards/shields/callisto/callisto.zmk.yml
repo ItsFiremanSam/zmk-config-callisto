@@ -1,0 +1,8 @@
+file_format: "1"
+id: callisto
+name: Callisto
+type: shield
+url: -
+requires: [pro_micro]
+features:
+  - keys

@@ -1,0 +1,6 @@
+if SHIELD_CALLISTO
+
+config ZMK_KEYBOARD_NAME
+    default "Callisto"
+
+endif
